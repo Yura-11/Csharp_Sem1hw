@@ -3,7 +3,7 @@
 // 8 -> 2, 4, 6, 8
 System.Console.WriteLine("Введите число: ");
 int n = Convert.ToInt32(Console.ReadLine());
-int a = 0;
+int a = 1;
 Console.WriteLine("Четные числа от 1 до "+n);
 while (a <= n)
 {
