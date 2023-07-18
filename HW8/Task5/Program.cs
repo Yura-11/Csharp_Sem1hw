@@ -6,6 +6,7 @@
 //  11 16 15 06
 //  10 09 08 07
 //  
+
 int len = 4;
 int[,] mass= new int[len, len];
 
